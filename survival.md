@@ -1,9 +1,17 @@
 ## Survival guide
+### Getting started
+1. create `GameObject` with `MoveenStepper5` component
++ create `GameObject` with `RigidBody` component and connect it to the `MoveenStepper5` as `body`
++ create `GameObject` and connect it to the `MoveenStepper5` as `target`
++ add needed count of legs as its children (each leg is a `GameObject` with `MoveenSkelLeg1`)
++ connect meshes for each leg, for each bone
+
+
 ### Animated object structure example
 * some external `GameObject`
   * Stepper (`GameObject` with `MoveenStepper5`)
-    * Leg (`GameObject` with `MoveenSkelLeg1`
-    * Leg (`GameObject` with `MoveenSkelLeg1`
+    * Leg (`GameObject` with `MoveenSkelLeg1`)
+    * Leg (`GameObject` with `MoveenSkelLeg1`)
   * Body (`GameObject` wtith `RigidBody`)
     * Body meshes
     * Leg meshes
