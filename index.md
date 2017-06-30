@@ -13,3 +13,4 @@ Moveen is a library for realtime cinematic-grade animation engine. Currently it 
 * run / jump
 * "sitting in mech" demo
 
+[Survival guide](survival)
