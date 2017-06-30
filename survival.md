@@ -6,6 +6,7 @@
 1. create `GameObject` with `RigidBody` component and connect it to the `MoveenStepper5` as `body`
 1. create `GameObject` and connect it to the `MoveenStepper5` as `target`
 
+*TODO: button for usual object structure*
 
 ### Animated object structure example
 * some external `GameObject`

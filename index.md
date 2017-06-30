@@ -18,6 +18,7 @@ Moveen is a library for realtime cinematic-grade animation engine. Currently it 
 
 
 ## Upcoming features
+* button to create usual skeleton structure 
 * jump / jumping run
 * "sitting in mech" demo
 * binding to a skinned mesh
