@@ -1,7 +1,7 @@
 Moveen is a library for realtime cinematic-grade animation engine. Currently it is available only as an asset for Unity.
 ## Example
 
-{% include youtubePlayer.html id=mJUFvYGpS9o %}
+{% include youtubePlayer.html id="mJUFvYGpS9o" %}
 
 ## Known issues:
 * RigidBody for body can only have weight = 1
