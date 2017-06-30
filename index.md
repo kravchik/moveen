@@ -1,7 +1,11 @@
 Moveen is a library for realtime cinematic-grade animation engine. Currently it is available only as an asset for Unity.
+
+[Getting started](survival)
+
 ## Example
 
 {% include youtubePlayer.html id="mJUFvYGpS9o" %}
+
 
 ## Features
 * tunable walking animations
@@ -24,6 +28,5 @@ Moveen is a library for realtime cinematic-grade animation engine. Currently it 
 * binding to a skinned mesh
  
 
-[Survival guide](survival)
 
 
