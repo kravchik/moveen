@@ -1,4 +1,5 @@
-Moveen is a library for realtime cinematic-grade animation engine. Currently it is available only as an asset for Unity.
+Moveen is a library for realtime cinematic-grade animation engine.
+Currently it is available only as an asset for Unity.
 
 [Getting started](survival)
 
@@ -6,10 +7,6 @@ Moveen is a library for realtime cinematic-grade animation engine. Currently it 
 
 {% include youtubePlayer.html id="nTG1xY4QfNU" %}
 {% include youtubePlayer.html id="mJUFvYGpS9o" %}
-
-More examples and current progress:
-* [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
-* [Twitter](https://twitter.com/ykravchik)
 
 ## Features
 * tunable walking animations
@@ -30,7 +27,13 @@ More examples and current progress:
 * jump / jumping run
 * "sitting in mech" demo
 * binding to a skinned mesh
- 
 
+## References 
+More examples and current progress:
+* [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
+* [Twitter](https://twitter.com/ykravchik)
 
+Unity assets with best robot models out there (I am using them for some showcases):
+[https://www.assetstore.unity3d.com/en/#!/content/54074]
+[https://www.assetstore.unity3d.com/en/#!/content/39969]
 
