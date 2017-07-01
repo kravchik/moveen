@@ -47,6 +47,6 @@ More examples and current progress:
 * [Twitter](https://twitter.com/ykravchik)
 
 Unity assets with best robot models out there (I am using them for some showcases):
-[https://www.assetstore.unity3d.com/en/#!/content/54074]
-[https://www.assetstore.unity3d.com/en/#!/content/39969]
+* [Mech Constructor: Spiders and Tanks](https://www.assetstore.unity3d.com/en/#!/content/54074)
+* [Mech Constructor: Light and Medium Robots](https://www.assetstore.unity3d.com/en/#!/content/39969)
 
