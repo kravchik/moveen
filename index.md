@@ -1,4 +1,4 @@
-Moveen - the engine for automatic animation of any models.
+Moveen (working title) - the engine for automatic animation of any models.
 You just connect your model, and it comes alive.
 The engine controls it in real-time, which includes:
 stepping on any surface and at any speed, responding to recoils, hits and other external influences,
@@ -20,21 +20,24 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 ## Features
 * tunable walking animations
 * bipeds and multipeds
+* 1-2 knee leg types
 * reaction to recoil and external force
 * any surface relief
 * animation of body, legs, and hip (optionally)
 * any walking/running style
+* smooth walking mode transition 
 * no legs "sliding"
 
 ## Known issues:
-* RigidBody for body can only have weight = 1
-* not followed cs code convention
+* RigidBody for the body can only have weight = 1
+* not following cs code convention
 
 ## Upcoming features
 * button to create usual skeleton structure 
 * jump / jumping run
 * "sitting in mech" demo
 * binding to a skinned mesh
+* other leg structure types
 * Java version
 * Unreal port
 
