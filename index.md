@@ -1,5 +1,13 @@
-Moveen is a library for realtime cinematic-grade animation engine.
-Currently it is available only as an asset for Unity.
+Moveen - the engine for automatic animation of any models.
+You just connect your model, and it comes alive.
+The engine controls it in real-time, which includes:
+stepping on any surface and at any speed, responding to recoils, hits and other external influences,
+a wide range of settings for the gaits and a smooth transition between walking modes, etc.
+With it, the animator can forget about the routine work on general animation and focus on game-specific animations.
+
+Currently, it is only available as an asset for Unity.
+
+Although the animation of animals looks good, I'm now focusing on debugging animations for robots.
 
 [Getting started](survival)
 
@@ -27,6 +35,8 @@ Currently it is available only as an asset for Unity.
 * jump / jumping run
 * "sitting in mech" demo
 * binding to a skinned mesh
+* Java version
+* Unreal port
 
 ## References 
 More examples and current progress:
