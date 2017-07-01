@@ -4,8 +4,12 @@ Moveen is a library for realtime cinematic-grade animation engine. Currently it 
 
 ## Example
 
+{% include youtubePlayer.html id="nTG1xY4QfNU" %}
 {% include youtubePlayer.html id="mJUFvYGpS9o" %}
 
+More examples and current progress:
+* [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
+* [Twitter](https://twitter.com/ykravchik)
 
 ## Features
 * tunable walking animations
