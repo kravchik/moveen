@@ -5,9 +5,10 @@ stepping on any surface and at any speed, responding to recoils, hits and other 
 a wide range of settings for the gaits and a smooth transition between walking modes, etc.
 With it, the animator can forget about the routine work on general animation and focus on game-specific animations.
 
-Currently, it is only available as an asset for Unity.
-
 Although the animation of animals looks good, I'm now focusing on debugging animations for robots.
+
+Currently, it is only available as an **asset for Unity**. And, it is in the alpha testing mode, and a link will come later. Stay tuned.
+
 
 [Getting started](survival)
 
@@ -28,7 +29,6 @@ Although the animation of animals looks good, I'm now focusing on debugging anim
 ## Known issues:
 * RigidBody for body can only have weight = 1
 * not followed cs code convention
-
 
 ## Upcoming features
 * button to create usual skeleton structure 
