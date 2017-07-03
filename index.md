@@ -9,13 +9,15 @@ Although the animation of animals looks good, I'm now focusing on debugging anim
 
 Currently, it is only available as an **asset for Unity**. And, it is in the alpha testing mode, and a link will come later. Stay tuned.
 
-
-[Getting started](survival)
-
 ## Example
 
 {% include youtubePlayer.html id="nTG1xY4QfNU" %}
 {% include youtubePlayer.html id="mJUFvYGpS9o" %}
+
+## Getting started
+1. create **Moveen biped** or **Moveen Quadruped** template (GameObject menu or Inspector "create" menu or inspector right click menu) 
+1. click play button (you can control model by moving "target" GameObject)
+1. connect meshes of your model ([animation structure](structure))
 
 ## Features
 * tunable walking animations
@@ -28,10 +30,6 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 * smooth walking mode transition 
 * no legs "sliding"
 
-## Known issues:
-* RigidBody for the body can only have weight = 1
-* not following cs code convention
-
 ## Upcoming features
 * button to create usual skeleton structure 
 * jump / jumping run
@@ -41,7 +39,14 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 * Java version
 * Unreal port
 
+## Known issues:
+* RigidBody for the body can only have weight = 1
+* not following cs code convention
+
 ## References 
+
+[Animation struture](structure)
+
 More examples and current progress:
 * [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
 * [Twitter](https://twitter.com/ykravchik)

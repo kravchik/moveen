@@ -1,12 +1,12 @@
-## Survival guide
-### Getting started
+## Animation structure
+### Creating structure by hand
 1. create ``GameObject`` with `MoveenStepper5` component
 1. add needed number of legs as its children (each leg is a `GameObject` with `MoveenSkelLeg1`)
 1. connect meshes for each leg, for each bone
 1. create `GameObject` with `RigidBody` component and connect it to the `MoveenStepper5` as `body`
 1. create `GameObject` and connect it to the `MoveenStepper5` as `target`
 
-*TODO: button for usual object structure*
+To connect Leg meshes - you need to connect them manually to `MoveenSkelLeg1.BonesGeometry` (or `MoveenSkelLeg2.BonesGeometry`) properties (with proper ordering).  
 
 ### Animated object structure example
 * some external `GameObject`
@@ -31,5 +31,4 @@ Body geometry plays two roles:
 * it contains `RigidBody` component, which is used by the animation engine both to collect external forces and to produce reactions
 * it contains body meshes
   
-To connect Leg meshes - you need to connect them manually to `MoveenSkelLeg1.BonesGeometry` properties (with proper ordering).  
 
