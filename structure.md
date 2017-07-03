@@ -8,6 +8,10 @@
 
 To connect Leg meshes - you need to connect them manually to `MoveenSkelLeg1.BonesGeometry` (or `MoveenSkelLeg2.BonesGeometry`) properties (with proper ordering).  
 
+Result should look similar to this:
+
+![Tutorial 1](/images/tutorial01.png)
+
 ### Animated object structure example
 * some external `GameObject`
   * Stepper (`GameObject` with `MoveenStepper5`)
@@ -31,4 +35,3 @@ Body geometry plays two roles:
 * it contains `RigidBody` component, which is used by the animation engine both to collect external forces and to produce reactions
 * it contains body meshes
   
-
