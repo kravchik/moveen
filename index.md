@@ -14,9 +14,9 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 {% include youtubePlayer.html id="nTG1xY4QfNU" %}
 {% include youtubePlayer.html id="mJUFvYGpS9o" %}
 
-## Getting started
+## Getting started (Unity)
 1. create **Moveen biped** or **Moveen Quadruped** template (GameObject menu or Inspector "create" menu or inspector right click menu) 
-1. click play button (you can control model by moving "target" GameObject)
+1. click play button (you can control the model by moving "target" GameObject)
 1. connect meshes of your model ([animation structure](structure))
 
 ## Features
@@ -46,6 +46,8 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 ## References 
 
 [Animation struture](structure)
+
+[Closed beta test (for those who invited)](https://bitbucket.org/ykravchik/moveen/)
 
 More examples and current progress:
 * [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
