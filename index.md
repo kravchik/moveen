@@ -15,9 +15,17 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 {% include youtubePlayer.html id="mJUFvYGpS9o" %}
 
 ## Getting started (Unity)
+0. unpack Moveen archive into Assets directory of your project (while there is no Asset store entry yet)
 1. create **Moveen biped** or **Moveen Quadruped** template (GameObject menu or Inspector "create" menu or inspector right click menu) 
 1. click play button (you can control the model by moving "target" GameObject)
-1. connect meshes of your model ([animation structure](structure))
+
+
+3. *(optional) connect meshes of your model ([animation structure](structure))*
+
+
+3. *(optional) press `MoveenStepper5<Create from skeleton>` button (it will create draft geometry corresponding to the skeleton, which you can use as a base for sketches)* 
+
+
 
 ## Features
 * tunable walking animations
