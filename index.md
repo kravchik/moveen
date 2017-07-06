@@ -39,7 +39,6 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 * button to create usual skeleton structure 
 * jump / jumping run
 * "sitting in mech" demo
-* binding to a skinned mesh
 * other leg structure types
 * Java version
 * Unreal port
@@ -51,8 +50,6 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 ## References 
 
 [Animation struture](structure)
-
-[Closed beta test (for those who invited)](https://bitbucket.org/ykravchik/moveen/)
 
 More examples and current progress:
 * [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
