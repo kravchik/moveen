@@ -47,9 +47,14 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 * RigidBody for the body can only have weight = 1
 * not following cs code convention
 
-## References 
+## More info 
+
+[Rigging](rigging)
 
 [Animation struture](structure)
+
+[Gait tuning](gait)
+
 
 More examples and current progress:
 * [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
