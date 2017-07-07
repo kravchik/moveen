@@ -19,7 +19,7 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 1. create **Moveen biped** or **Moveen Quadruped** template (GameObject menu or Inspector "create" menu or inspector right click menu) 
 1. click play button (you can control the model by moving "target" GameObject)
 1. (optional)
-  * connect meshes of your model ([animation structure](structure))
+  * connect meshes of your model ([rigging](rigging))
   * OR press `MoveenStepper5<Create from skeleton>` button (it will create draft geometry corresponding to the skeleton, which you can use as a base for sketches) 
 
 
