@@ -36,7 +36,8 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 * no legs "sliding"
 
 ## Upcoming features
-* button to create usual skeleton structure 
+* better bipedal behaviour
+* simpler rigging system
 * jump / jumping run
 * "sitting in mech" demo
 * other leg structure types
