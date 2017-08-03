@@ -1,17 +1,19 @@
 
 
 
+##TODO
 
-
-**PLANNED RC  (08.09.17)**
+**PLANNED RC  _(08.09.17)_**
 * performance testing scene
 * "sitting in mech" scene
 
 
-**PLANNED EAP (25.08.17)**
+**PLANNED EAP _(25.08.17)_**
 * custom leg structure
 * automatic rigging
  
+
+##DONE
 
 **EAP 4** _04.08.17_
 
