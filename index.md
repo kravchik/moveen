@@ -36,13 +36,17 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 * no legs "sliding"
 
 ## Upcoming features
-* better bipedal behaviour
+[Changelog and plans](changelog)
+
+* custom leg structure
 * simpler rigging system
 * jump / jumping run
 * "sitting in mech" demo
-* other leg structure types
 * Java version
 * Unreal port
+
+
+
 
 ## Known issues:
 * RigidBody for the body can only have weight = 1
