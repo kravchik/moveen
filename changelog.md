@@ -17,6 +17,8 @@
 
 **EAP 4** _04.08.17_
 
+- 10 bugs
+
 + demo scene
   + terrain
   + bipeds (slow, big, fast, mech)
@@ -40,7 +42,6 @@
       + incline body by legs
       + better height dif handling
 
-- 10 bugs
 
 
 **EAP 3** _(10.07.17)_
