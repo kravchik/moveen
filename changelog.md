@@ -1,7 +1,7 @@
 
 
 
-##TODO
+## TODO
 
 **PLANNED RC  _(08.09.17)_**
 * performance testing scene
@@ -13,7 +13,7 @@
 * automatic rigging
  
 
-##DONE
+## DONE
 
 **EAP 4** _04.08.17_
 
