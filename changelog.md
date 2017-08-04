@@ -1,4 +1,4 @@
-
+([Home](index))
 
 
 ## TODO
@@ -17,7 +17,7 @@
 
 **EAP 4** _04.08.17_
 
-- 10 bugs
+- 12 bugs
 
 + demo scene
   + terrain
