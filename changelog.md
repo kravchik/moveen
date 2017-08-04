@@ -19,7 +19,7 @@
 
 - 12 bugs
 
-+ demo scene
++ demo scene (Unity 5.6.0)
   + terrain
   + bipeds (slow, big, fast, mech)
   + multipeds (tripod, fast 4, big 4, 6)
