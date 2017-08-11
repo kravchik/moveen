@@ -19,12 +19,12 @@
 
 - 12 bugs
 
-+ demo scene (Unity 5.6.0)
++ demo scene (Unity 5.6.0) [(video)](https://twitter.com/ykravchik/status/893830650314338304)
   + terrain
   + bipeds (slow, big, fast, mech)
   + multipeds (tripod, fast 4, big 4, 6)
    
-* better bipedal walking and external forces reaction
+* better bipedal walking and external forces reaction [(video)](https://www.facebook.com/moveengine/videos/1906656052928603/)
 
 + more gait parameters
 
