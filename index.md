@@ -49,7 +49,6 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 
 
 ## Known issues:
-* RigidBody for the body can only have weight = 1
 * not following cs code convention
 
 ## More info 
@@ -70,4 +69,5 @@ Unity assets with best robot models out there (I am using them for some showcase
 * [Mech Constructor: Spiders and Tanks](https://www.assetstore.unity3d.com/en/#!/content/54074)
 * [Mech Constructor: Light and Medium Robots](https://www.assetstore.unity3d.com/en/#!/content/39969)
 
-{% include vk.button.html %}
+[//]: # ({% include vk.button.html %})
+
