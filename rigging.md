@@ -21,3 +21,35 @@ For the MoveenSkelLeg2 type of leg, you can control leg base, two axes, target p
 ![Rigging SkelLeg2](/images/rigging.leg2.png)
 
 It is done that way because we need to place skeleton into the comfort position using parameters engine uses to control it.
+
+
+
+
+
+
+
+
+[//]: # (This may be the most platform independent comment, EMPTY LINE is important)
+
+<!---
+your comment goes here
+and here
+-->
+
+[](Comment text goes here)
+
+```{r echo=FALSE, eval=FALSE}
+All the comments!
+```
+
+[^Comment]:  Text that will not appear in html source
+
+[](
+Your comments go here however you cannot leave
+// a blank line so fill blank lines with
+//
+Something
+)
+
+
+
