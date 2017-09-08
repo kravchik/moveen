@@ -25,27 +25,3 @@ It is done that way because we need to place skeleton into the comfort position 
 
 
 
-
-
-
-
-[//]: # (This may be the most platform independent comment, EMPTY LINE is important)
-
-<!---
-your comment goes here
-and here
--->
-
-[](Comment text goes here)
-
-[^Comment]:  Text that will not appear in html source
-
-[](
-Your comments go here however you cannot leave
-// a blank line so fill blank lines with
-//
-Something
-)
-
-
-
