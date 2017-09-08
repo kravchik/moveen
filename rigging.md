@@ -38,10 +38,6 @@ and here
 
 [](Comment text goes here)
 
-```{r echo=FALSE, eval=FALSE}
-All the comments!
-```
-
 [^Comment]:  Text that will not appear in html source
 
 [](
