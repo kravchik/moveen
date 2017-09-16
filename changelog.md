@@ -3,7 +3,7 @@
 
 ## TODO
 
-### TODO AFTER BETA 1
+**TODO AFTER BETA 1**
 (no exact priorities yet)
 * "performance testing" scene
 * "walking in the mech" scene
@@ -15,10 +15,10 @@
 * ...
 
 
-### TODO PUBLISHED BETA 1 _30.09.17_
+**TODO PUBLISHED BETA 1** _30.09.17_
 * no new features, only bug fixes and docs
 
-### TODO RC 2 (last candidate, I hope) _23.09.17_
+**TODO RC 2 (last candidate, I hope)** _23.09.17_
 * merge with external animations
 * more joint primitives, rotating gun scene
 * more docs 
@@ -28,7 +28,7 @@
 
 
 
-### RC 1 _16.09.17_
+### RC 1** _16.09.17_
 
 * THIS VERSION CONTAINS IMPORTANT MODEL-UPGRADER
 * **much more stability in stepping!**
@@ -68,7 +68,7 @@
 
 
 
-### EAP 4 _04.08.17_
+**EAP 4** _04.08.17_
 
 - 12 bugs
 
@@ -97,7 +97,7 @@
 
 
 
-### EAP 3 _(10.07.17)_
+**EAP 3** _(10.07.17)_
 
 * better ground detector customization
 * template improvements
