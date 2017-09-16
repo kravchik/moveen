@@ -18,7 +18,7 @@
 ### TODO PUBLISHED BETA 1 _30.09.17_
 * no new features, only bug fixes and docs
 
-### TODO RC2 (last candidate, I hope) _23.09.17_
+### TODO RC 2 (last candidate, I hope) _23.09.17_
 * merge with external animations
 * more joint primitives, rotating gun scene
 * more docs 
