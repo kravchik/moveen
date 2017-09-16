@@ -3,7 +3,7 @@
 
 ## TODO
 
-### TODO AFTER BETA_1
+### TODO AFTER BETA 1
 (no exact priorities yet)
 * "performance testing" scene
 * "walking in the mech" scene
@@ -15,7 +15,7 @@
 * ...
 
 
-### TODO PUBLISHED BETA_1 _30.09.17_
+### TODO PUBLISHED BETA 1 _30.09.17_
 * no new features, only bug fixes and docs
 
 ### TODO RC2 (last candidate, I hope) _23.09.17_
@@ -28,7 +28,7 @@
 
 
 
-### RC1 _16.09.17_
+### RC 1 _16.09.17_
 
 * THIS VERSION CONTAINS IMPORTANT MODEL-UPGRADER
 * **much more stability in stepping!**
