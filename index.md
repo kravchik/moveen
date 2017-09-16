@@ -44,8 +44,6 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 ## Upcoming features
 [Changelog and plans](changelog)
 
-* custom leg structure
-* simpler rigging system
 * jump / jumping run
 * "sitting in mech" demo
 * Java version
