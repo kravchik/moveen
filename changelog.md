@@ -3,15 +3,11 @@
 
 ## TODO
 
-**PLANNED RC  _(08.09.17)_**
-* performance testing scene
-* "sitting in mech" scene
+###PLANNED RC2 (last candidate, I hope)_23.09.17_
+* merge with external animations
+* more joint primitives, rotating gun scene
+* more docs 
 
-
-**PLANNED EAP _(25.08.17)_**
-* custom leg structure
-* automatic rigging
- 
 
 ## DONE
 
