@@ -15,6 +15,48 @@
 
 ## DONE
 
+
+
+**RC1** _16.09.17_
+
+* THIS VERSION CONTAINS IMPORTANT MODEL-UPGRADER
+* #### much more stability in stepping!
+  * better stepping, rotating, jumping
+  * better stepping on too-steep slopes
+  * predictable stepping in complex bridges, ridges, low ceilings, stairs, etc.
+  * extended surface detector
+* #### joints as a separate system
+  * extended elbow2 possibilities
+  * added joint primitives, that can be used separately!
+  * you can compose completely new limb structure from joint primitives
+  * you can use both "coded" (high performance) and "editor-composed" (easy to do) sulutions
+  * structures can be used both as limbs, and as dynamic decorations for them
+* joint primitives
+  * sushi
+  * hydraulic
+  * empty limb (for editor-composed, and for third-party solutions)
+  * bezier
+    * extendible bezier
+    * bezier mesh
+      * different start/end radiuses
+      * start/end caps
+      * custom or Unity normals
+      * smart/fast twisting
+    * bones
+    * prefab 
+* better ratation speed limit for MoveControl1 
+* ordered execution MonoBehaviour
+* reliable limb length limit system
+* scene about three strange prototypes
+* scene about custom joint structures
+* UpdateProto Model and Fill ProtoModel buttons
+* surface detectors now use memory friendly solution
+* scene tuning
+* production ready directory system
+* bugs
+
+
+
 **EAP 4** _04.08.17_
 
 - 12 bugs
