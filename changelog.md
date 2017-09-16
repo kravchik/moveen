@@ -20,12 +20,12 @@
 **RC1** _16.09.17_
 
 * THIS VERSION CONTAINS IMPORTANT MODEL-UPGRADER
-* #### much more stability in stepping!
+* **much more stability in stepping!**
   * better stepping, rotating, jumping
   * better stepping on too-steep slopes
   * predictable stepping in complex bridges, ridges, low ceilings, stairs, etc. (tough one)
   * extended surface detector
-* #### joints as a separate system
+* **joints as a separate system**
   * extended elbow2 possibilities
   * added joint primitives, that can be used separately from whole stepping system!
   * you can compose completely new limb structure from joint primitives
