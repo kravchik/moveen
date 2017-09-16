@@ -3,7 +3,10 @@
 
 ## TODO
 
-###PLANNED RC2 (last candidate, I hope)_23.09.17_
+###PLANNED PUBLISHED BETA _30.09.17_
+
+
+###PLANNED RC2 (last candidate, I hope) _23.09.17_
 * merge with external animations
 * more joint primitives, rotating gun scene
 * more docs 
