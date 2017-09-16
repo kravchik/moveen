@@ -17,7 +17,7 @@
 
 
 
-**RC1** _16.09.17_
+###RC1 _16.09.17_
 
 * THIS VERSION CONTAINS IMPORTANT MODEL-UPGRADER
 * **much more stability in stepping!**
@@ -57,7 +57,7 @@
 
 
 
-**EAP 4** _04.08.17_
+###EAP 4 _04.08.17_
 
 - 12 bugs
 
@@ -86,7 +86,7 @@
 
 
 
-**EAP 3** _(10.07.17)_
+###EAP 3 _(10.07.17)_
 
 * better ground detector customization
 * template improvements
