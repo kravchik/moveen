@@ -23,14 +23,14 @@
 * #### much more stability in stepping!
   * better stepping, rotating, jumping
   * better stepping on too-steep slopes
-  * predictable stepping in complex bridges, ridges, low ceilings, stairs, etc.
+  * predictable stepping in complex bridges, ridges, low ceilings, stairs, etc. (tough one)
   * extended surface detector
 * #### joints as a separate system
   * extended elbow2 possibilities
-  * added joint primitives, that can be used separately!
+  * added joint primitives, that can be used separately from whole stepping system!
   * you can compose completely new limb structure from joint primitives
-  * you can use both "coded" (high performance) and "editor-composed" (easy to do) sulutions
-  * structures can be used both as limbs, and as dynamic decorations for them
+  * you can use both "coded" (high performance) and "editor-composed" (easy to do) solutions
+  * structures can be used both as limbs and as dynamic decorations for them
 * joint primitives
   * sushi
   * hydraulic
@@ -44,14 +44,14 @@
       * smart/fast twisting
     * bones
     * prefab 
-* better ratation speed limit for MoveControl1 
+* better rotation speed limit for MoveControl1 
 * ordered execution MonoBehaviour
 * reliable limb length limit system
 * scene about three strange prototypes
 * scene about custom joint structures
 * UpdateProto Model and Fill ProtoModel buttons
 * surface detectors now use memory friendly solution
-* scene tuning
+* scenes tuning
 * production ready directory system
 * bugs
 
