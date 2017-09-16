@@ -3,10 +3,22 @@
 
 ## TODO
 
-###PLANNED PUBLISHED BETA _30.09.17_
+###TODO AFTER BETA1
+(no exact priorities yet)
+* "performance testing" scene
+* "walking in the mech" scene
+* more joint primitives
+* hands, guns
+* running with jumping, better stepping
+* (even) more synematic stepper version
+* less precise stepper version (for performance)
+* ...
+
+
+###TODO PUBLISHED BETA1 _30.09.17_
 * no new features, only bug fixes and docs
 
-###PLANNED RC2 (last candidate, I hope) _23.09.17_
+###TODO RC2 (last candidate, I hope) _23.09.17_
 * merge with external animations
 * more joint primitives, rotating gun scene
 * more docs 
