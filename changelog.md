@@ -28,7 +28,7 @@
 
 
 
-### RC 1** _16.09.17_
+**RC 1** _16.09.17_
 
 * THIS VERSION CONTAINS IMPORTANT MODEL-UPGRADER
 * **much more stability in stepping!**
