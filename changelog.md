@@ -4,7 +4,7 @@
 ## TODO
 
 ###PLANNED PUBLISHED BETA _30.09.17_
-
+* no new features, only bug fixes and docs
 
 ###PLANNED RC2 (last candidate, I hope) _23.09.17_
 * merge with external animations
