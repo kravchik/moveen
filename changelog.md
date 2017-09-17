@@ -5,7 +5,6 @@
 
 **TODO AFTER BETA 1**
 (no exact priorities yet)
-* "performance testing" scene
 * "walking in the mech" scene
 * more joint primitives
 * hands, guns
@@ -21,6 +20,7 @@
 **TODO RC 2 (last candidate, I hope)** _23.09.17_
 * merge with external animations
 * more joint primitives, rotating gun scene
+* "performance testing" scene
 * more docs 
 
 
