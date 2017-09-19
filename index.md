@@ -9,7 +9,8 @@ Although the animation of animals looks good, I'm now focusing on debugging anim
 
 Currently, it is only available as an **asset for Unity**. And, it is in the alpha testing mode, and a link will come later. Stay tuned.
 
-* [Changelog and plans](changelog)
+* [Changelog](changelog)
+* [Future plans](roadmap)
 * [Facebook](https://www.facebook.com/moveengine/)
 * [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
 * [Twitter](https://twitter.com/ykravchik)
@@ -42,7 +43,8 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 * no legs "sliding"
 
 ## Upcoming features
-[Changelog and plans](changelog)
+[Changelog](changelog), [Future plans](roadmap)
+
 
 * jump / jumping run
 * "sitting in mech" demo
