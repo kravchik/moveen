@@ -3,7 +3,7 @@
 
 ## TODO
 
-**TODO PUBLISHED BETA 1** _30.09.17_
+**TODO PUBLISHED BETA 1** _06.10.17_
 * no new features, only bug fixes and docs
 
 **TODO AFTER BETA 1**
