@@ -4,7 +4,17 @@
 
 ## DONE
 
-
+**RC 2** _29.09.17_
+* automatic ragdoll creation
+* transition from/to animation
+* transition from/to ragdoll
+* common animation mixer
+* MoveenTransformCopier
+* simpler body structure
+* refactored ordered tick 
+* triangle counter in Bezier mesh
+* more tooltips
+* fixed bunch of bugs
 
 **RC 1** _16.09.17_
 
