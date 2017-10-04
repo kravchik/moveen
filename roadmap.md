@@ -8,11 +8,9 @@
 
 **TODO AFTER BETA 1**
 (no exact priorities yet)
-* more joint primitives, rotating gun scene
+* more joint primitives, rotating gun scene, hands
 * "performance testing" scene
 * more docs 
-* more joint primitives
-* hands, guns
 * running with jumping, better stepping
 * (even) more cinematic stepper version
 * less precise stepper version (for performance)
