@@ -28,8 +28,7 @@ Currently, it is only available as an [**asset for Unity**](https://www.assetsto
 2. click play button. You can control the model by moving "target" GameObject either directly or by script supplied (currently, it is `MoveControl1`)
 3. connect meshes of your model ([rigging](rigging))
 
-_If there is no template corresponding to your needs and you can't modify present ones to match - let me know!
-I'll try to help you with tuning, and possibly even add template model to the library._
+_If there is no template corresponding to your needs and you can't modify present ones to match - let me know! I'll try to help you with tuning, and possibly even add template model to the library._
 
 ### Scenario 2 (extended level)
 1. create **Moveen biped** or **Moveen Quadruped** template (GameObject menu or Inspector "create" menu or inspector right click menu) 
@@ -40,7 +39,9 @@ _TODO: replace menu entries with prefabs_
     * press `MoveenStepper5<Create from skeleton>` button (it will create draft geometry corresponding to the skeleton, which you can use as a base for prototyping) 
     * OR connect meshes of your model ([rigging](rigging))
 
-__Notice, you can apply any forces to the `RigidBody` of the animation. It could be collisions, recoils, hits, or anything. Animation engine will react appropriately.__
+### Common tips
+* _you can apply any forces to the `RigidBody` of the animation. It could be collisions, recoils, hits, or anything. Animation engine will react appropriately_
+* _you can use geometry prefabs from the library to prototype layout, silhouette, and animation even before actual mesh modeling_
 
 
 ## Features
