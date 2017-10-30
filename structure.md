@@ -1,11 +1,11 @@
-([Home](index))
+([Home](https://kravchik.github.io/moveen/))
 ## Animation structure
 ### Creating structure by hand
-1. create ``GameObject`` with `MoveenStepper5` component
-1. add needed number of legs as its children (each leg is a `GameObject` with `MoveenSkelLeg1`)
-1. connect meshes for each leg, for each bone ([rigging](rigging))
-1. create `GameObject` with `RigidBody` component and connect it to the `MoveenStepper5` as `body`
-1. create `GameObject` and connect it to the `MoveenStepper5` as `target`
+1. create `GameObject` with `MoveenStepper5` component
+2. add needed number of legs as its children (each leg is a `GameObject` with `MoveenSkelLeg1`)
+3. connect meshes for each leg, for each bone ([rigging](rigging))
+4. create `GameObject` with `RigidBody` component and connect it to the `MoveenStepper5` as `body`
+5. create `GameObject` and connect it to the `MoveenStepper5` as `target`
 
 To connect Leg meshes - you need to connect them manually to `MoveenSkelLeg1.BonesGeometry` (or `MoveenSkelLeg2.BonesGeometry`) properties (with proper ordering).  
 

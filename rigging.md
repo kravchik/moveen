@@ -1,4 +1,4 @@
-([Home](index))
+([Home](https://kravchik.github.io/moveen/))
 # Moveen rigging
 
 Moveen rigging is rather easy. You need to add legs of the appropriate types and then combine position of the skeleton and your model. A result should look like this: 

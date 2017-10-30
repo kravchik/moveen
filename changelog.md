@@ -1,4 +1,4 @@
-([Home](index))
+([Home](https://kravchik.github.io/moveen/))
 
 [Future plans](roadmap)
 

@@ -1,4 +1,4 @@
-Moveen (working title) - the engine for automatic animation of any models.
+[Moveen](https://kravchik.github.io/moveen/) (working title) - the engine for automatic animation of any models.
 You just connect your model, and it comes alive.
 The engine controls it in real-time, which includes:
 stepping on any surface and at any speed, responding to recoils, hits and other external influences,
@@ -7,8 +7,9 @@ With it, the animator can forget about the routine work on general animation and
 
 Although the animation of animals looks good, I'm now focusing on debugging animations for robots.
 
-Currently, it is only available as an **asset for Unity**. And, it is in the alpha testing mode, and a link will come later. Stay tuned.
+Currently, it is only available as an [**asset for Unity**](https://www.assetstore.unity3d.com/en/#!/content/101452)
 
+* [Unity Asset Store page](https://www.assetstore.unity3d.com/en/#!/content/101452)
 * [Changelog](changelog)
 * [Future plans](roadmap)
 * [Facebook](https://www.facebook.com/moveengine/)
@@ -22,13 +23,24 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 {% include youtubePlayer.html id="mJUFvYGpS9o" %}
 
 ## Getting started (Unity)
-0. unpack Moveen archive into Assets directory of your project (while there is no Asset store entry yet)
-1. create **Moveen biped** or **Moveen Quadruped** template (GameObject menu or Inspector "create" menu or inspector right click menu) 
-1. click play button (you can control the model by moving "target" GameObject)
-1. (optional)
-  * connect meshes of your model ([rigging](rigging))
-  * OR press `MoveenStepper5<Create from skeleton>` button (it will create draft geometry corresponding to the skeleton, which you can use as a base for sketches) 
+### Scenario 1
+1. find the closest model to what you need in "Different skels and sizes" scene and copy it to your scene
+2. click play button. You can control the model by moving "target" GameObject either directly or by script supplied (currently, it is `MoveControl1`)
+3. connect meshes of your model ([rigging](rigging))
 
+_If there is no template corresponding to your needs and you can't modify present ones to match - let me know!
+I'll try to help you with tuning, and possibly even add template model to the library._
+
+### Scenario 2 (extended level)
+1. create **Moveen biped** or **Moveen Quadruped** template (GameObject menu or Inspector "create" menu or inspector right click menu) 
+_TODO: replace menu entries with prefabs_
+2. click play button (you can control the model by moving "target" GameObject)
+3. tune sizes, structure, and parameters. Look at parameters in completed template models (in scenes supplied) to get an idea how to achieve the desired behavior.
+4. (OPTIONAL)
+    * press `MoveenStepper5<Create from skeleton>` button (it will create draft geometry corresponding to the skeleton, which you can use as a base for prototyping) 
+    * OR connect meshes of your model ([rigging](rigging))
+
+__Notice, you can apply any forces to the `RigidBody` of the animation. It could be collisions, recoils, hits, or anything. Animation engine will react appropriately.__
 
 
 ## Features
@@ -58,6 +70,10 @@ Currently, it is only available as an **asset for Unity**. And, it is in the alp
 * not following cs code convention
 
 ## More info 
+
+[Unity Asset Store page](https://www.assetstore.unity3d.com/en/#!/content/101452)
+
+[Project page amd online documentation](https://kravchik.github.io/moveen/)
 
 [Rigging](rigging)
 
