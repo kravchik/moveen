@@ -3,14 +3,16 @@
 ## Changelog for 0.7 and upgrade
 
 * large upgrade for stepping  
+  * better stepping
   * run and jump
   
   {% include youtubePlayer.html id="lqBbf8qNfAo" %}
   
-  * better stepping
 
 * [Motors](motors)
-  * [vertical/horizontal/rotation](https://youtu.be/GG179F6PSwo) 
+  * vertical/horizontal/rotation 
+
+  {% include youtubePlayer.html id="GG179F6PSwo" %}
 
 * new prefabs for prototyping
   * 2 bodies
@@ -22,8 +24,14 @@
 * scene tuning  
 * new models with animation templates
   * fast 10m battle mech               
-  * [heavy 10m battle mech](https://youtu.be/u9Q6-sILuAo)
-  * [fast 5m mech](https://youtu.be/lqBbf8qNfAo)
+  * heavy 10m battle mech
+
+  {% include youtubePlayer.html id="u9Q6-sILuAo" %}
+
+  * fast 5m mech
+
+  {% include youtubePlayer.html id="lqBbf8qNfAo" %}
+
   * heavy 5m mech
 
 * debug features  
