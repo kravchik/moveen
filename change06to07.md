@@ -3,7 +3,10 @@
 ## Changelog for 0.7 and upgrade
 
 * large upgrade for stepping  
-  * [run and jump](https://youtu.be/lqBbf8qNfAo)
+  * run and jump
+  
+  {% include youtubePlayer.html id="lqBbf8qNfAo" %}
+  
   * better stepping
 
 * [Motors](motors)
