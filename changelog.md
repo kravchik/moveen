@@ -4,6 +4,42 @@
 
 ## DONE
 
+**v0.7** _04.11.17_
+
+* large upgrade for stepping  
+  * [run and jump](https://youtu.be/lqBbf8qNfAo)
+  * better stepping
+
+* [Motors](motors)
+  * [vertical/horizontal/rotation](https://youtu.be/GG179F6PSwo) 
+
+* new prefabs for prototyping
+  * 2 bodies
+  * 11 bones
+  * 3 feet
+  * 3 guns
+  * 2 hips
+  
+* scene tuning  
+* new models with animation templates
+  * fast 10m battle mech               
+  * [heavy 10m battle mech](https://youtu.be/u9Q6-sILuAo)
+  * [fast 5m mech](https://youtu.be/lqBbf8qNfAo)
+  * heavy 5m mech
+
+* debug features  
+  * visual log for stepping  
+  * dials for stepping  
+
+* legs now can be childed in hip
+* bend legs in the air
+* bugs and tunings
+
+[Full info](change06to07)
+
+**v0.6** _19.10.17_
+* on the store
+
 **RC 2** _29.09.17_
 * automatic ragdoll creation
 * transition from/to animation

@@ -7,9 +7,9 @@ With it, the animator can forget about the routine work on general animation and
 
 Although the animation of animals looks good, I'm now focusing on debugging animations for robots.
 
-Currently, it is only available as an [**asset for Unity**](https://www.assetstore.unity3d.com/en/#!/content/101452)
+Currently, it is only available as an [**asset for Unity**](https://www.assetstore.unity3d.com/en/?utm_source=gh1#!/content/101452)
 
-* [Unity Asset Store page](https://www.assetstore.unity3d.com/en/#!/content/101452)
+* [Unity Asset Store page](https://www.assetstore.unity3d.com/en/?utm_source=gh2#!/content/101452)
 * [Changelog](changelog)
 * [Future plans](roadmap)
 * [Facebook](https://www.facebook.com/moveengine/)
@@ -72,7 +72,7 @@ _TODO: replace menu entries with prefabs_
 
 ## More info 
 
-[Unity Asset Store page](https://www.assetstore.unity3d.com/en/#!/content/101452)
+[Unity Asset Store page](https://www.assetstore.unity3d.com/en/?utm_source=gh3#!/content/101452)
 
 [Project page amd online documentation](https://kravchik.github.io/moveen/)
 
@@ -89,6 +89,6 @@ More examples and current progress:
 * [Twitter](https://twitter.com/ykravchik)
 
 Unity assets with best robot models out there (I am using them for some showcases):
-* [Mech Constructor: Spiders and Tanks](https://www.assetstore.unity3d.com/en/#!/content/54074)
-* [Mech Constructor: Light and Medium Robots](https://www.assetstore.unity3d.com/en/#!/content/39969)
+* [Mech Constructor: Spiders and Tanks](https://www.assetstore.unity3d.com/en/?utm_source=moveengh#!/content/54074)
+* [Mech Constructor: Light and Medium Robots](https://www.assetstore.unity3d.com/en/?utm_source=moveengh#!/content/39969)
 
