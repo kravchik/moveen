@@ -3,9 +3,11 @@ You just connect your model, and it comes alive.
 The engine controls it in real-time, which includes:
 stepping on any surface and at any speed, responding to recoils, hits and other external influences,
 a wide range of settings for the gaits and a smooth transition between walking modes, etc.
-With it, the animator can forget about the routine work on general animation and focus on game-specific animations.
 
-Although the animation of animals looks good, I'm now focusing on debugging animations for robots.
+With it, game-developer can considerably reduce expenses, as 90% of animations for any model is already done. Let alone technical aspects - animation transitions, runtime reactions, etc.
+Animators at the same time can forget about the routine work on general animations and focus on the real art (emotes, game-specific animations, detailed movements, etc.).
+
+_Although the animation of animals looks good, I'm now focusing on debugging animations for robots._
 
 Currently, it is only available as an [**asset for Unity**](https://www.assetstore.unity3d.com/en/?utm_source=gh1#!/content/101452)
 

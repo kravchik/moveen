@@ -3,15 +3,11 @@
 
 ## TODO
 
-**TODO PUBLISHED BETA 1** _06.10.17_
-* no new features, only bug fixes and docs
-
-**TODO AFTER BETA 1**
+**TODO v0.7 - v1.0**
 (no exact priorities yet)
 * more joint primitives, rotating gun scene, hands
 * "performance testing" scene
 * more docs 
-* running with jumping, better stepping
 * (even) more cinematic stepper version
 * less precise stepper version (for performance)
 * new example scenes:
