@@ -4,6 +4,23 @@
 
 ## DONE
 
+
+**v0.75** _23.11.17_
+
+* [ragdoll is usable now](https://youtu.be/TddJ_kJamoQ)
+* Sound Pool 3D
+* guns
+  * gun/hit recoil systems
+  * gun fire/aim controller, hitscanner 
+  * effect starters 
+  * direction controller (for guns and heads)
+* [example scene: top-down physical shooter with big mechs (first version)](https://youtu.be/WG4nE5XKLjY)
+  * top-down camera controller
+  ? stepping events (dust and sound)
+  * focus grabber
+* 11 prototype sounds
+* some bugs fixed
+
 **v0.7** _04.11.17_
 
 * large upgrade for stepping  
