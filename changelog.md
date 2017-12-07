@@ -4,8 +4,19 @@
 
 ## DONE
 
+**v0.78** _07.12.2017_ **improved limbs editing, performance scene**
+* performance
+  * performance testing scene
+  * removed some runtime memory allocations
+* far simpler limbs editing
+  * IK helper for MoveenLimb1, MoveenLimb2
+  * simplified inspector for MoveenLimb1, MoveenLimb2
+  * better limbs visualization
+  * Step2.detachedComfortPosRel checkbox (comfort position was detached by default which caused show-stopping if you didn't know that it has to be positioned)
+  * refactored gizmos (cleaner code, less rendering)
+* some bugs and refactorings 
 
-**v0.75** _23.11.17_
+**v0.75** _23.11.2017_ **guns, sounds, top-down shooter**
 
 * [ragdoll is usable now](https://youtu.be/TddJ_kJamoQ)
 * Sound Pool 3D
@@ -21,7 +32,7 @@
 * 11 prototype sounds
 * some bugs fixed
 
-**v0.7** _04.11.17_
+**v0.7** _04.11.2017_ **run, jump, motors, prefabs** 
 
 * large upgrade for stepping  
   * [run and jump](https://youtu.be/lqBbf8qNfAo)
@@ -54,10 +65,10 @@
 
 [Full info](change06to07)
 
-**v0.6** _19.10.17_
+**v0.6** _19.10.2017_ **on the store**
 * on the store
 
-**RC 2** _29.09.17_
+**RC 2** _29.09.2017_
 * automatic ragdoll creation
 * transition from/to animation
 * transition from/to ragdoll
@@ -69,7 +80,7 @@
 * more tooltips
 * fixed bunch of bugs
 
-**RC 1** _16.09.17_
+**RC 1** _16.09.2017_
 
 * THIS VERSION CONTAINS IMPORTANT MODEL-UPGRADER
 * **much more stability in stepping!**
@@ -109,7 +120,7 @@
 
 
 
-**EAP 4** _04.08.17_
+**EAP 4** _04.08.2017_
 
 - 12 bugs
 
@@ -138,7 +149,7 @@
 
 
 
-**EAP 3** _(10.07.17)_
+**EAP 3** _(10.07.2017)_
 
 * better ground detector customization
 * template improvements
