@@ -14,6 +14,7 @@
   * better limbs visualization
   * Step2.detachedComfortPosRel checkbox (comfort position was detached by default which caused show-stopping if you didn't know that it has to be positioned)
   * refactored gizmos (cleaner code, less rendering)
+* MoveenScaleHelper
 * some bugs and refactorings 
 
 **v0.75** _23.11.2017_ **guns, sounds, top-down shooter**
