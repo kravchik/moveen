@@ -13,6 +13,7 @@ Currently, it is only available as an [**asset for Unity**](https://www.assetsto
 
 * [Unity Asset Store page](https://www.assetstore.unity3d.com/en/?utm_source=gh2#!/content/101452)
 * [Changelog](changelog)
+* [**Tutorials**](tutorials)
 * [Future plans](roadmap)
 * [Facebook](https://www.facebook.com/moveengine/)
 * [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
@@ -23,6 +24,7 @@ Currently, it is only available as an [**asset for Unity**](https://www.assetsto
 
 {% include youtubePlayer.html id="nTG1xY4QfNU" %}
 {% include youtubePlayer.html id="mJUFvYGpS9o" %}
+
 
 ## Getting started (Unity)
 ### Scenario 1
@@ -75,6 +77,8 @@ _TODO: replace menu entries with prefabs_
 ## More info 
 
 [Unity Asset Store page](https://www.assetstore.unity3d.com/en/?utm_source=gh3#!/content/101452)
+
+[**Tutorials**](tutorials)
 
 [Project page amd online documentation](https://kravchik.github.io/moveen/)
 
