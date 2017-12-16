@@ -4,12 +4,17 @@
 
 ## DONE
 
+**v0.79** _16.12.2017_ **removed "beta" status, little fixes, raised price**
+* removed "beta" status 
+* some fixes
+* raised price
+
 **v0.78** _07.12.2017_ **improved limbs editing, performance scene**
 * performance
   * performance testing scene
   * removed some runtime memory allocations
 * far simpler limbs editing
-  * IK helper for MoveenLimb1, MoveenLimb2
+  * editing helper for MoveenLimb1, MoveenLimb2
   * simplified inspector for MoveenLimb1, MoveenLimb2
   * better limbs visualization
   * Step2.detachedComfortPosRel checkbox (comfort position was detached by default which caused show-stopping if you didn't know that it has to be positioned)

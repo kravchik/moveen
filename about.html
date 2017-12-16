@@ -2,6 +2,16 @@
 <br>
 <br>
 
+
+v0.79
+<br>
+Removed "beta" status, some fixes.
+<br><a href="https://kravchik.github.io/moveen/changelog?utm_source=uas">More details here.</a>
+<br>
+<br>
+<br>
+
+
 v0.78
 <br>
 Far simpler limbs editing (<a href="https://www.youtube.com/watch?v=P72QUrl86xI">IK helper and simplified inspector</a> for MoveenLimb1, MoveenLimb2, better limbs visualization, one very important checkbox), <a href="https://twitter.com/ykravchik/status/936893924383252480">performance testing scene</a>, removed runtime memory allocations.
@@ -33,24 +43,6 @@ Moveen is a library for <strong>automatic animation</strong> - it adds common ci
 With virtually no effort you get the whole range of common animations for your model - walk, run, strafe, jib, jump, recoil, hit, ragdolled death.
 Even more - all animations are calculated at runtime so model gets seamless transitions between states and natural reaction to the external influences. And its legs never slide again.
 You just connect the bones of your rigged model, and it comes alive.
-<br>
-<br>
-<strong>Note,</strong> $30 - is the beta price and will be higher when the library will be released. Beta customers will get release version without any additional cost.
-<br>
-<br>
-
-<strong>Update (v0.78)</strong>:
-<br>
-Far simpler limbs editing (<a href="https://www.youtube.com/watch?v=P72QUrl86xI">IK helper and simplified inspector</a> for MoveenLimb1, MoveenLimb2, better limbs visualization, one very important checkbox), <a href="https://twitter.com/ykravchik/status/936893924383252480">performance testing scene</a>, removed runtime memory allocations.
-<br><a href="https://kravchik.github.io/moveen/changelog?utm_source=uas">More details here.</a>
-<br>
-<br>
-
-<strong>Update (v0.75)</strong>:
-<br>
-Sound pool 3D, gun systems (direction control, fire, aim, several recoil types, effects, sounds), <a href="https://youtu.be/WG4nE5XKLjY">new example scene (top-down physical shooter with big mechs),</a>
- <a href="https://youtu.be/TddJ_kJamoQ?utm_source=uas">ragdoll is usable now</a>.
-<br><a href="https://kravchik.github.io/moveen/changelog?utm_source=uas">More details here.</a>
 <br>
 <br>
 
@@ -102,11 +94,13 @@ Sound pool 3D, gun systems (direction control, fire, aim, several recoil types, 
 <br>
 <br>
 <strong>PLANS</strong>
-<br>&bull;  from/to custom animation (code is here, but needs refactoring and tutorial)
+<br>&bull;  mix with animation (code is here, but I need to figure out API)
+<br>&bull;  wheels
+<br>&bull;  hands
 <br>&bull;  gameplay example scenes: top-down shooter, sit in the mech, strategy, 2D
 <br>&bull;  runtime skeleton modification
 <br>&bull;  more tutorial and example scenes
-<br>&bull;  more joint primitives, rotating gun scene, hands
+<br>&bull;  more joint primitives, rotating gun scene
 <br>&bull;  more docs
 <br>&bull;  (even) more cinematic stepper version
 <br>&bull;  less precise stepper version (for performance)
