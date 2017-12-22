@@ -12,12 +12,13 @@ _Although the animation of animals looks good, I'm now focusing on debugging ani
 Currently, it is only available as an [**asset for Unity**](https://www.assetstore.unity3d.com/en/?utm_source=gh1#!/content/101452)
 
 * [Unity Asset Store page](https://www.assetstore.unity3d.com/en/?utm_source=gh2#!/content/101452)
-* [Changelog](changelog)
+* [Discord chat](https://discord.gg/uTD8Gj4)
 * [**Tutorials**](tutorials)
-* [Future plans](roadmap)
+* [Twitter](https://twitter.com/ykravchik)
 * [Facebook](https://www.facebook.com/moveengine/)
 * [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
-* [Twitter](https://twitter.com/ykravchik)
+* [Changelog](changelog)
+* [Roadmap](roadmap)
 
 
 ## Example
