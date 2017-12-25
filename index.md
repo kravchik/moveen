@@ -14,6 +14,7 @@ Currently, it is only available as an [**asset for Unity**](https://www.assetsto
 * [Unity Asset Store page](https://www.assetstore.unity3d.com/en/?utm_source=gh2#!/content/101452)
 * [Discord chat](https://discord.gg/uTD8Gj4)
 * [**Tutorials**](tutorials)
+* [Forum](https://forum.unity.com/threads/released-moveen-automatic-animation.510063/)
 * [Twitter](https://twitter.com/ykravchik)
 * [Facebook](https://www.facebook.com/moveengine/)
 * [Youtube](https://www.youtube.com/channel/UCUM1pDB_Ccst8HQFOwYs38A)
@@ -78,6 +79,8 @@ _TODO: replace menu entries with prefabs_
 ## More info 
 
 [Unity Asset Store page](https://www.assetstore.unity3d.com/en/?utm_source=gh3#!/content/101452)
+
+[Forum](https://forum.unity.com/threads/released-moveen-automatic-animation.510063/)
 
 [**Tutorials**](tutorials)
 
