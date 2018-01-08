@@ -4,6 +4,23 @@
 
 ## DONE
 
+
+**v0.8** _08.01.2018_ **directory structure, new scenes, changed joints**
+
+* changed directory structure (Moveen -> Plugins/YK/MoveEn)
+* refactored joints children
+  * children are moved in editor and in runtime
+  * joint never moves by itself
+* new scenes
+  * simple gun scene
+  * top-down arcade
+  * MoveControl3
+  * MoveControl5
+  * simple npc: walk and idle, simple npc: run away
+* 2 new models
+* 14 tunings and bug fixes 
+
+
 **v0.79** _16.12.2017_ **removed "beta" status, little fixes, raised price**
 * removed "beta" status 
 * some fixes
