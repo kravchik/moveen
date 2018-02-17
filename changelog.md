@@ -5,6 +5,26 @@
 ## DONE
 
 
+**v0.81** _16.02.2018_ **??**
+
+* new model: walking gun
+* bugs, tunings:
+  * limb2 - minLength calculation
+  * cursors and aiming refactoring
+  * hit scanner (collider ignore hierarchy, dir choosing)
+  * -MoveControl5 dir
+  * add children button
+  * -legs shimmer in some cases
+  * better leg pull
+  * warning about being in rage, >0, <0, outside of range
+  * warning if two rigidbodies are available
+  * removed targetUnderground
+  * just fired flag
+  * -can't move AND rotate a model initially (gizmos and initial setups)
+  * -repaint gizmo when rescaling
+  * ctr+z in Limb1/Limb2
+
+
 **v0.8** _08.01.2018_ **directory structure, new scenes, changed joints**
 
 * changed directory structure (Moveen -> Plugins/YK/MoveEn)
