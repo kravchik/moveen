@@ -62,7 +62,6 @@
 **v0.75** _23.11.2017_ **guns, sounds, top-down shooter**
 
 * [ragdoll is usable now](https://youtu.be/TddJ_kJamoQ)
-* Sound Pool 3D
 * guns
   * gun/hit recoil systems
   * gun fire/aim controller, hitscanner 
