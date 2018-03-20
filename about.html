@@ -2,6 +2,31 @@
 <br>
 <br>
 
+v0.81
+
+<br>&bull; new model: walking gun
+<br>&bull; bugs, tunings:
+<br>&bull; &nbsp;&nbsp;limb2 - minLength calculation
+<br>&bull; &nbsp;&nbsp;cursors and aiming refactoring
+<br>&bull; &nbsp;&nbsp;hit scanner (collider ignore hierarchy, dir choosing)
+<br>&bull; &nbsp;&nbsp;-MoveControl5 dir
+<br>&bull; &nbsp;&nbsp;add children button
+<br>&bull; &nbsp;&nbsp;-legs shimmer in some cases
+<br>&bull; &nbsp;&nbsp;better leg pull
+<br>&bull; &nbsp;&nbsp;warning about being in rage, >0, <0, outside of range
+<br>&bull; &nbsp;&nbsp;warning if two rigidbodies are available
+<br>&bull; &nbsp;&nbsp;removed targetUnderground
+<br>&bull; &nbsp;&nbsp;just fired flag
+<br>&bull; &nbsp;&nbsp;-can't move AND rotate a model initially (gizmos and initial setups)
+<br>&bull; &nbsp;&nbsp;-repaint gizmo when rescaling
+<br>&bull; &nbsp;&nbsp;ctr+z in Limb1/Limb2
+<br><a href="https://kravchik.github.io/moveen/changelog?utm_source=uas">More details here.</a>
+
+<br>
+<br>
+<br>
+
+
 v0.8
 <br>&bull; changed directory structure! (Moveen -> Plugins/YK/MoveEn)
 <br>&bull; changed joint logic (realtime result right in Editor)
@@ -37,12 +62,47 @@ Far simpler limbs editing (<a href="https://www.youtube.com/watch?v=P72QUrl86xI"
 <br>
 
 v0.75
-Sound pool 3D, gun systems (direction control, fire, aim, several recoil types, effects, sounds), new example scene (top-down physical shooter with big mechs), ragdoll is usable now.
+gun systems (direction control, fire, aim, several recoil types, effects, sounds), new example scene (top-down physical shooter with big mechs), ragdoll is usable now.
 
 <br>
 <br>
 ===============
 <br>
+
+
+
+
+
+
+
+
+
+
+
+
+MoveEn - the engine with the full set of procedural animations. With it, you don't need any premade animations. Just move your GameObject, and MoveEn will make the model run, or walk, or jump, or recoil, etc.
+
+it is easy to setup and it has good performance (on mobiles too)
+
+! robots and spiders, not humans
+
+
+? расписать aim?
+? расписать чем м двигать game object?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -113,20 +173,16 @@ You just connect the bones of your rigged model, and it comes alive.
 <br>
 <strong>PLANS</strong>
 <br>&bull;  mix with animation (code is here, but I need to figure out API)
-<br>&bull;  wheels
 <br>&bull;  hands
 <br>&bull;  gameplay example scenes: sit in the mech, strategy, 2D
 <br>&bull;  runtime skeleton modification
 <br>&bull;  more tutorial and example scenes
-<br>&bull;  more joint primitives, rotating gun scene
 <br>&bull;  more docs
-<br>&bull;  (even) more cinematic stepper version
 <br>&bull;  less precise stepper version (for performance)
 
 <br>
 <br>
 <strong>LINKS</strong>
-<br>&rang; <a href="https://discord.gg/uTD8Gj4">Discord chat</a>
 <br>&rang; <a href="https://www.youtube.com/watch?v=P72QUrl86xI&index=2&list=PLqZriYKM4MpAqF17lRU8c-QVK5QzDQHdW">Tutorials</a>
 <br>&rang; <a href="https://forum.unity.com/threads/released-moveen-automatic-animation.510063/">Forum</a>
 <br>&rang; <a href="https://kravchik.github.io/moveen?utm_source=uas">Project page</a>
