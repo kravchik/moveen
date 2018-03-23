@@ -2,6 +2,25 @@
 <br>
 <br>
 
+v0.82
+
+
+&bull; runtime skeleton change
+&nbsp;&nbsp; &bull; runtime limb addition/removal, layout recalculation
+&nbsp;&nbsp; &bull; limb detach + ragdoll
+&nbsp;&nbsp; &bull; limb enable/disable + ragdoll
+&bull; tunings, bug-fixes, (including bug with scirpt disable)
+
+<a href="https://kravchik.github.io/moveen/changelog?utm_source=uas">More details here.</a>
+
+<br>
+<br>
+<br>
+
+<br>
+<br>
+<br>
+
 v0.81
 
 <br>&bull; new model: walking gun
@@ -125,21 +144,24 @@ You just connect the bones of your rigged model, and it comes alive.
 
 <strong>FEATURES</strong>
 <br>&bull; walking animations
-<br>&bull;   &nbsp;&nbsp;animation of body, legs, and hip (optionally)
-<br>&bull;   &nbsp;&nbsp;walk, run, strafe, jib, jump, recoil, hit
-<br>&bull;   &nbsp;&nbsp;custom gaits (like "wounded")
+<br>&nbsp;&nbsp;  &bull; animation of body, legs, and hip (optionally)
+<br>&nbsp;&nbsp;  &bull; walk, run, strafe, jib, jump, recoil, hit
+<br>&nbsp;&nbsp;  &bull; custom gaits (like "wounded")
 <br>&bull; runtime reaction to recoil and external force
 <br>&bull; seamless transition between states
 <br>&bull; runtime leg placement
-<br>&bull;   &nbsp;&nbsp;any surface relief
-<br>&bull;   &nbsp;&nbsp;no sliding
+<br>&nbsp;&nbsp;  &bull; any surface relief
+<br>&nbsp;&nbsp;  &bull; no sliding
 <br>&bull; skeleton layouts
-<br>&bull;   &nbsp;&nbsp;bipeds and multipeds
-<br>&bull;   &nbsp;&nbsp;with or without hip
-<br>&bull;   &nbsp;&nbsp;prototype geometry generator
+<br>&nbsp;&nbsp;  &bull; bipeds and multipeds
+<br>&nbsp;&nbsp;  &bull; with or without hip
+<br>&nbsp;&nbsp;  &bull; prototype geometry generator
 <br>&bull; many parameters for gait tuning
+<br>&bull; <a href="https://youtu.be/X5q2vY2N3_A?utm_source=uas">runtime skeleton modification</a>
+<br>&nbsp;&nbsp;  &bull; <a href="https://youtu.be/-F3tPApOEYA?utm_source=uas">runtime limb enable/disable</a>
+<br>&nbsp;&nbsp;  &bull; <a href="https://youtu.be/--b3a9mKqPQ?utm_source=uas">separate limb ragdoll</a>
 <br>&bull; <a href="https://youtu.be/TddJ_kJamoQ?utm_source=uas">ragdolled death</a>
-<br>&bull;   &nbsp;&nbsp;ragdoll generator
+<br>&nbsp;&nbsp;  &bull; ragdoll generator
 <br>&bull; elements for custom limbs creation
 <br>&bull; rich gun control
 
@@ -151,19 +173,18 @@ You just connect the bones of your rigged model, and it comes alive.
 <br>&bull;  main animation engine
 <br>&bull;  many default limb structures
 <br>&bull;  gun systems
-<br>&bull;  &nbsp;&nbsp;direction control, aiming, animation recoil, physical recoil, effect starters
+<br>&nbsp;&nbsp;  &bull; direction control, aiming, animation recoil, physical recoil, effect starters
 <br>&bull;  25 prefabs for mech prototyping
 <br>&bull;  11 sounds for mech prototyping
 <br>&bull;  elements for custom limbs creation
-<br>&bull;  &nbsp;&nbsp;(all elements are interconnectable and can be composed right in unity without scripting)
-<br>&bull;  &nbsp;&nbsp;many predefined limbs
-<br>&bull;  &nbsp;&nbsp;elbows
-<br>&bull;  &nbsp;&nbsp;hydraulics
-<br>&bull;  &nbsp;&nbsp;chopsticks
-<br>&bull;  &nbsp;&nbsp;bezier mesh/bones
+<br>&nbsp;&nbsp;  &bull; (all elements are interconnectable and can be composed right in unity without scripting)
+<br>&nbsp;&nbsp;  &bull; many predefined limbs
+<br>&nbsp;&nbsp;  &bull; elbows
+<br>&nbsp;&nbsp;  &bull; hydraulics
+<br>&nbsp;&nbsp;  &bull; chopsticks
+<br>&nbsp;&nbsp;  &bull; bezier mesh/bones
 <br>&bull;  <a href="https://youtu.be/Td199dJiJrc">template models and layouts scene</a>
 <br>&bull;  limb types example scene
-<br>&bull;  Sound Pool 3D
 <br>&bull;  <a href="https://youtu.be/WG4nE5XKLjY">example scene: top-down physical shooter with big mechs</a>
 <br>&bull;  example scene: top-down/from behind arcade shooter
 <br>&bull;  <a href="https://twitter.com/ykravchik/status/936893924383252480">performance testing scene</a>
@@ -175,7 +196,6 @@ You just connect the bones of your rigged model, and it comes alive.
 <br>&bull;  mix with animation (code is here, but I need to figure out API)
 <br>&bull;  hands
 <br>&bull;  gameplay example scenes: sit in the mech, strategy, 2D
-<br>&bull;  runtime skeleton modification
 <br>&bull;  more tutorial and example scenes
 <br>&bull;  more docs
 <br>&bull;  less precise stepper version (for performance)

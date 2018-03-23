@@ -64,7 +64,6 @@ _TODO: replace menu entries with prefabs_
 [Changelog](changelog), [Future plans](roadmap)
 
 
-* jump / jumping run
 * "sitting in mech" demo
 * Java version
 * Unreal port

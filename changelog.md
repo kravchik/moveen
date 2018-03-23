@@ -5,7 +5,15 @@
 ## DONE
 
 
-**v0.81** _16.02.2018_ **??**
+**v0.82** _23.03.2018_ **runtime skeleton change, important bug-fix**
+* tunings, bug-fixes, (including bug with scirpt disable)
+* runtime skeleton change
+  * runtime leg addition/removal, layout recalculation
+  * leg remove + ragdoll
+  * leg enable/disable + ragdoll
+
+
+**v0.81** _16.02.2018_ **new model, tunings, bug-fixes**
 
 * new model: walking gun
 * bugs, tunings:
