@@ -5,6 +5,26 @@
 ## DONE
 
 
+**v0.83** _15.03.2022_ **editor performance fix, cosmetics**
+
+###### Editor performance
+* fixed performance of gizmos rendering
+* fixed performance MoveenSkelLimb*' regression solver help
+###### Cosmetics, refactorings
+* StartableMonoBehaviour: removed (just use :MonoBehavior, Startable)
+* RecoilLocalMotorStarter: renamed to GlobalMotorPusher
+* LocalMotor: deprecated (GlobalMotor works the same if wo RigidBody)
+* DirControl: greatly simplified, affects its own GO instead of customized
+* GlobalMotor: greatly simplified, always needs custom target
+* OrderedTick docs, cosmetics, removed Tester, added try-catch, added isBroken
+* OrderedMonoBehaviour docs, cosmetics
+  * renamed participateInUpdate, participateInFixedUpdate
+  * removed errors on game start/end
+* removed Rider plugin
+* MotorBean docs
+
+
+
 **v0.82** _23.03.2018_ **runtime skeleton change, important bug-fix**
 * tunings, bug-fixes, (including bug with scirpt disable)
 * runtime skeleton change
