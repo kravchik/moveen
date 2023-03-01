@@ -4,6 +4,16 @@
 
 ## DONE
 
+**v0.84** _25.01.2023_ **clean-ups, cosmetics**
+
+* Stepper5 removed some redundancies
+* participateInTick/FixedTick/errors - hidden to lessen the clutter, don't need to be edited
+* removed redundant tickInLateUpdate setting
+* removed CamControl1
+* removed some warnings
+* MyMath cosmetics
+* assets converted to text format
+* fixed solver help not shown automatically
 
 **v0.83** _15.03.2022_ **editor performance fix, cosmetics**
 
