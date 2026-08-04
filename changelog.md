@@ -4,6 +4,11 @@
 
 ## DONE
 
+**v0.85** _04.08.2026_ **Unity compatibility update**
+
+* package and example scenes migrated to Unity 2022.3 LTS
+* no Moveen API or runtime behavior changes
+
 **v0.84** _25.01.2023_ **clean-ups, cosmetics**
 
 * Stepper5 removed some redundancies
@@ -237,4 +242,3 @@
 - index out of bounds (minor bug)
 + undo
 + multiple legs editing
-
